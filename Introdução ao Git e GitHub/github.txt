@@ -1,0 +1,13 @@
+Atualizando repositorio
+
+git status
+
+git add .
+
+git status
+
+git pull origin main
+
+git commit -m "descrição do commit"
+
+git push

@@ -1,0 +1,20 @@
+1° git init - inicia na pasta do projeto, 
+2° git status - verifica alterações,
+3° git add - adiciona, 
+4° git commit -m ""
+-git log --online - navega pelo histórico de alterações
+
+
+para subir o arquivo vai no github e cria um novo repositório, ao criar será gerado um git remote 
+que é só você colocar no git bash,assim será add o seu arquivo que está operando no momento no repositório 
+
+
+EXEMPLO git remote add origin git@github.com:CViniviusSDias/alura-git.git
+
+6° git push -u origin master
+
+Pronto agora é só ir no repositório e aceitar o pedido de master
+
+
+
+
